@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Technologies
+[![Generic badge](https://img.shields.io/badge/Cloud-Azure-Blue.svg)](https://shields.io/)
+
 <!--
 **javiermarasco/javiermarasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
